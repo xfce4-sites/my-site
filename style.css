@@ -1,0 +1,16 @@
+* style.css */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', serif; /* Замени шрифт на другой, если не отображается */
+}
+
+h1 {
+    color: #333;
+    text-align: center; /* Центрирование заголовка */
+}
+
+p {
+    color: #666;
+    margin: 20px;
+    text-align: center; /* Центрирование абзаца */
+}
